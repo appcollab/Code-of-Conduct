@@ -1,3 +1,5 @@
+AppCollab is collective for starting small side projects/businesses. It is currently forming, and the details are emerging ;-)
+
 # Code of Conduct
 Note: This was copied from the LGBT in Tech, and does not currently cover any of the business related aspects but we thought it was a reasonable starting point
 
